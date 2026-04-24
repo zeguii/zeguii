@@ -33,8 +33,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeguii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeguii&theme=dracula" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zeguii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeguii&theme=dracula&locale=pt_br" height="180" />
 </div>
 
 ###
