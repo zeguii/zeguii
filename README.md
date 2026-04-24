@@ -32,11 +32,13 @@
 
 ###
 
+<h2 align="left">Stats</h2>
+
+###
+
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=zeguii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false&order=1" height="180" />
-    <img src="https://streak-stats.demolab.com?user=zeguii&locale=pt_BR&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="180" />
-  </div>
+  <img src="https://github-readme-stats.vercel.app/api?username=zeguii&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zeguii&theme=dracula" height="180" />
 </div>
 
 ###
