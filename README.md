@@ -46,7 +46,7 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/guilherme-carvalho-34314a342/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jgl.carvalho/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>&nbsp;&nbsp;
-  <a href="mailto:guilherme.lima85@outlook.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="email icon" /></a>
+  <a href="mailto:guilherme.lima85@outlook.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" width="40" height="4" alt="email icon" /></a>
 </div>
 
 ###
